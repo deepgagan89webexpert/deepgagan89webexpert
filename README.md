@@ -25,14 +25,6 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
 
 ---
 
-<div align="center">
-
-| Stats 📈 | Streak 🔥 | Languages 🗣️ |
-|---|---|---|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurusingh2033&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=gurusingh2033&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurusingh2033&theme=gruvbox) |
-
-</div>
-
 <h2>Tech Stack</h2>
 
 <table width="80%">
@@ -110,3 +102,12 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
 </tr>
     
 </table>
+
+
+<div align="center">
+
+| Stats 📈 | Streak 🔥 | Languages 🗣️ |
+|---|---|---|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurusingh2033&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=gurusingh2033&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurusingh2033&theme=gruvbox) |
+
+</div>
