@@ -103,7 +103,7 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
     
 </table>
 
-
+---
 <div align="center">
 
 | Stats 📈 | Streak 🔥 | Languages 🗣️ |
