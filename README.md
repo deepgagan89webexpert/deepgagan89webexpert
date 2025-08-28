@@ -4,9 +4,9 @@
 
 <br>
 
-I'm a **Backend Software Engineer** and Coding Lunatic!
+I'm a **Full Stack Developer** and Coding Lunatic!
 <br>
-- 🔭 I’m currently working as **Senior Backend Engineer** at [Bytecode](https://www.bytecodetechnologies.in/).
+- 🔭 I’m currently working as **Senior Full Stack Developer** at [Bytecode](https://www.bytecodetechnologies.in/).
 - 🌱 I’m currently expanding my knowledge in **MERN | MEAN | .NET | Typescript** and **AI AUTOMATION**.
 - 👯 I’m looking to collaborate with developers who are passionate about building scalable backend systems, love open-source, or have cool side-project ideas.
 - 🤔 I’m looking for help with advanced **DevOps practices** and **cloud-native architectures**.
@@ -14,18 +14,17 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gurvinder-singh-58824ab7), [Email](mailto:gurusingh2033@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can debug code faster than I can find my keys. Also, I’m a chai enthusiast!
-
----
-
-<p align="center">
+<br>
+<h2>🤝 Let’s Connect</h2>
+<p align="left">
   <a href="https://www.linkedin.com/in/gurvinder-singh-58824ab7/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:gurusingh2033@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
   <a href="https://leetcode.com/gurusingh2033@gmail.com"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"></a>
 </p>
+<br>
 
----
 
-<h2>Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <table width="80%">
 <tr>
@@ -54,21 +53,14 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/768px-Tailwind_CSS_logo.svg.png?20220224135351" width="170">
     </td>
-	 <td align='center' width="200">
-        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"  width="70">
-    </td>
-	</td>
 	 <td align='center' width="200">
         <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"  width="70">
     </td>
 </tr>
  
 <tr>
-    <td align='center' width="200">
-        <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
-    </td>
     <td align='center' width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
@@ -82,8 +74,11 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
 	
     
 </table>
+<br>
 
----
+
+
+<h2>📊 My GitHub Stats</h2>
 <div align="center">
 
 | Stats 📈 | Streak 🔥 | Languages 🗣️ |
