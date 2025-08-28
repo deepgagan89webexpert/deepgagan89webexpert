@@ -1,16 +1,16 @@
 <div align="center">
     <h1>Hi there, I'm Gurvinder Singh 👋</h1>
 </div>
-<br>
-<br>
-<br>
-I'm a **Backend Software Engineer** and Coding Lunatic!
 
+<br>
+
+I'm a **Backend Software Engineer** and Coding Lunatic!
+<br>
 - 🔭 I’m currently working as **Senior Backend Engineer** at [Bytecode](https://www.bytecodetechnologies.in/).
-- 🌱 I’m currently expanding my knowledge in **MERN Stack** and **Shopify app development**.
+- 🌱 I’m currently expanding my knowledge in **MERN | MEAN | .NET | Typescript** and **AI AUTOMATION**.
 - 👯 I’m looking to collaborate with developers who are passionate about building scalable backend systems, love open-source, or have cool side-project ideas.
 - 🤔 I’m looking for help with advanced **DevOps practices** and **cloud-native architectures**.
-- 💬 Ask me about **Node.js, Express, MongoDB, REST APIs, system design, or scaling backend applications**!
+- 💬 Ask me about **Node.js, Express, MongoDB, REST APIs, Typescript, MERN stack, system design, or scaling backend applications**!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gurvinder-singh-58824ab7), [Email](mailto:gurusingh2033@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can debug code faster than I can find my keys. Also, I’m a chai enthusiast!
@@ -70,36 +70,16 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
         <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
     </td>
     <td align='center' width="200">
-        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
-    </td>
-    <td align='center' width="200">
-            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-        </td>
-    <td align='center' width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
-    </td>
-</tr>
-	
-<tr>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-    </td>
-     <td align='center' width="200">
-        <img src="https://www.logo.wine/a/logo/Oracle_Cloud_Platform/Oracle_Cloud_Platform-Logo.wine.svg" width="90">
-    </td>
+    </td>	
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
     </td>
 </tr>
+	
     
 </table>
 
